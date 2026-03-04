@@ -1,0 +1,5 @@
+city,temperature,humidity,weather_main,api_timestamp,ingestion_time
+Hyderabad,24.61,27,Clouds,2026-03-03 19:59:45,2026-03-03 20:06:29.048727
+Delhi,23.49,18,Clear,2026-03-03 19:55:29,2026-03-03 20:06:29.724887
+Mumbai,28.29,52,Clear,2026-03-03 20:03:21,2026-03-03 20:06:30.443838
+Bangalore,20.68,50,Clear,2026-03-03 19:58:41,2026-03-03 20:06:31.118194
